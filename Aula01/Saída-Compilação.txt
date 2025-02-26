@@ -1,0 +1,4 @@
+﻿1>------ Build iniciado: projeto: Aula01, Configuração: Debug ------
+1>C:\Users\joao.ppgpardo\Documents\AulasCSharp 2025\Aula01\Program.cs(15,34,15,52): warning CS8600: Conversão de literal nula ou possível valor nulo em tipo não anulável.
+1>  Aula01 -> C:\Users\joao.ppgpardo\Documents\AulasCSharp 2025\Aula01\bin\Debug\net9.0\Aula01.dll
+========== Compilar: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
